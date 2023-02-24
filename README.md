@@ -31,3 +31,5 @@ Prim:
 算法思路来源于算法导论：
 
 <img src="https://github.com/LogicMonst/mazepath/raw/master/pic/prim (2).jpg">
+
+图片显示不正常，可以移步至CSDN:https://blog.csdn.net/aabbcc729/article/details/124245695
